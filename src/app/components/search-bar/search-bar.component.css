@@ -1,5 +1,4 @@
 .container-search-bar{
-  border: 1px solid black;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -35,4 +34,20 @@
   margin: -20px 0 0 485px;
   background: transparent url('/projeto-pagina-e-comerce/src/data/pesqimg.svg') 0% 0% no-repeat padding-box;
   opacity: 1;
+}
+.meu-perfil,.carrinho{
+  text-align: left;
+  font: normal normal normal 11px Montserrat;
+  letter-spacing: 0px;
+  color: #313131;
+  opacity: 1;
+}
+.pessoa{
+  margin-left: 140px;
+}
+.meu-perfil,.carrinho-link{
+  margin-left: 5px;
+}
+.meu-carrinho{
+  margin-left: 50px;
 }

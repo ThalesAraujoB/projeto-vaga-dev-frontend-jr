@@ -21,10 +21,11 @@
   cursor: pointer;
 }
 .btn-2{
+  white-space: nowrap;
   background-color: transparent;
   border: none;
   margin-top: 7px;
-  margin-left: 357px;
+  margin-left: 87px;
   width: 142px;
   height: 15px;
   text-align: left;
@@ -39,12 +40,20 @@
   border: none;
   cursor: pointer;
   margin-top: 7px;
-  margin-left: 559px;
+  margin-left: 87px;
   width: 110px;
   height: 15px;
   text-align: left;
   font: normal normal normal 12px/15px Montserrat;
   letter-spacing: 0px;
   color: #FFFFFF;
+  opacity: 1;
+}
+.Icon_awesome-instagram{
+  margin-bottom: 9px;
+  margin-left: 1136px;
+  width: 12px;
+  height: 12px;
+  background: transparent url('/projeto-pagina-e-comerce/src/data/insta.svg') 0% 0% no-repeat padding-box;
   opacity: 1;
 }

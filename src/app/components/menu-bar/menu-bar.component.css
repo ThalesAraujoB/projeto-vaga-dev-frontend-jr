@@ -49,11 +49,14 @@
   color: #FFFFFF;
   opacity: 1;
 }
-.Icon_awesome-instagram{
-  margin-bottom: 9px;
+#icon-awesome-instagram{
+  cursor: pointer;
+  margin-top: 7px;
   margin-left: 1136px;
-  width: 12px;
-  height: 12px;
   background: transparent url('/projeto-pagina-e-comerce/src/data/insta.svg') 0% 0% no-repeat padding-box;
   opacity: 1;
 }
+.insta-link,.face-link,.youtube-link{
+  text-decoration:none !important ;
+}
+

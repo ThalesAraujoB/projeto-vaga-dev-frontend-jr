@@ -1,0 +1,19 @@
+.container-search-bar{
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1500px;
+  height: 75px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.nairuz{
+  margin-left: 85px;
+}
+.pesq-box{
+  margin-left: 230px;
+  border: 1px solid black;
+  width: 519px;
+  height: 39px;
+}

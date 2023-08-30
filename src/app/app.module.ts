@@ -7,6 +7,8 @@ import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 import { SearchBarComponent } from './components/search-bar/search-bar.component';
 import { BlueBarComponent } from './components/blue-bar/blue-bar.component';
 import { BaseImgComponent } from './components/base-img/base-img.component';
+import { ProductsBarComponent } from './components/products-bar/products-bar.component';
+import { ProductsBar2Component } from './components/products-bar2/products-bar2.component';
 
 @NgModule({
   declarations: [
@@ -14,11 +16,13 @@ import { BaseImgComponent } from './components/base-img/base-img.component';
     MenuBarComponent,
     SearchBarComponent,
     BlueBarComponent,
-    BaseImgComponent
+    BaseImgComponent,
+    ProductsBarComponent,
+    ProductsBar2Component
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

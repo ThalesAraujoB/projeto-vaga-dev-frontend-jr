@@ -68,4 +68,16 @@ opacity: 1;
   background: #221A61 0% 0% no-repeat padding-box;
   border-radius: 25px;
   opacity: 1;
+  cursor: pointer;
+}
+.subtitle{
+  margin-top: 25px;
+  width: 467px;
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 14px/15px Montserrat;
+  letter-spacing: 0px;
+  color: #292929;
+  opacity: 1;
+  margin-left: 450px;
 }
